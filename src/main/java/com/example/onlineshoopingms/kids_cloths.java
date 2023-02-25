@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class kids_cloths {
     @GetMapping("/kids_cloths")
     public String getData() {
-        return "Please purchase cloths online";
+        return "Please purchase cloths online helo";
     }
 }
