@@ -12,6 +12,7 @@
 	<artifactId>onlineshooping-ms</artifactId>
 	<version>v1.1</version>
 	<name>onlineshooping-ms</name>
+    <packaging>war</packaging>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
